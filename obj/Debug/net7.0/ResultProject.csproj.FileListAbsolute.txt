@@ -1,0 +1,15 @@
+D:\скачка\Attestation\Result\ResultProject\bin\Debug\net7.0\ResultProject.exe
+D:\скачка\Attestation\Result\ResultProject\bin\Debug\net7.0\ResultProject.deps.json
+D:\скачка\Attestation\Result\ResultProject\bin\Debug\net7.0\ResultProject.runtimeconfig.json
+D:\скачка\Attestation\Result\ResultProject\bin\Debug\net7.0\ResultProject.dll
+D:\скачка\Attestation\Result\ResultProject\bin\Debug\net7.0\ResultProject.pdb
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.csproj.AssemblyReference.cache
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.AssemblyInfoInputs.cache
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.AssemblyInfo.cs
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.csproj.CoreCompileInputs.cache
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.dll
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\refint\ResultProject.dll
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.pdb
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ResultProject.genruntimeconfig.cache
+D:\скачка\Attestation\Result\ResultProject\obj\Debug\net7.0\ref\ResultProject.dll

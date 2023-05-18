@@ -13,12 +13,19 @@ for (int i = 0; i < sizeArray; i++) // помещаем в массив элем
 int count = 0;
 foreach (string arrElem in array) // проверяем на ограничение по символам каждого элемента
 {
-	if (array.Length <= 3)
+	if (arrElem.Length <= 3)
 	{
 		count++;
 	}
 }
 string[] newArray = new string[count]; //создаём новый массив с необходимым количеством ячеек
-
-
+int index = 0;
+foreach (string arrElem in array) // заполняем новый массив нужными элементами
+{
+	if (arrElem.Length <= 3)
+	{
+		newArray[index] = arrElem;
+		index++;
+	}
+}
 
