@@ -29,3 +29,6 @@ foreach (string arrElem in array) // заполняем новый массив 
 	}
 }
 
+Console.WriteLine($" Массив [{String.Join(", ", array)}]");
+Console.WriteLine();
+Console.WriteLine($"Новый массив [{String.Join(", ", newArray)}]");
